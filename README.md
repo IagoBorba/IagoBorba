@@ -1,9 +1,9 @@
 ## Olá, sou Iago Borba 👋
 
 -  Dev Front-End
--  Estou me especializando
+-  Analista de Qualidade
 -  Ele/Dele
-- 20y
+- 22y
 - SP - São Paulo
 
   
